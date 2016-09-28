@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<settings>
+    <db>
+        <host>127.0.0.1</host>
+    <dbname>shop</dbname>
+    <username>root</username>
+    <password>root</password>
+    
+    </db>
+    
+    <contact>
+        <adress>Proskury str.,9d</adress>
+        <tel>+380996368715</tel>
+        <email>mila.anti.87@mail.ru</email>
+    </contact>
+    
+    </settings>
+        
+
+    

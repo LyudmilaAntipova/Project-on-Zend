@@ -1,0 +1,12 @@
+ <h2>
+<?php 
+    if(!empty($view->getParam('user'))) {
+        echo $view->getParam('user')->first_name. ' ' .$view->getParam('user')->last_name;
+    }    
+?>
+</h2>
+<?php
+    if(!empty($view->getParam('error'))) {
+        echo $view->getParam('error');
+    }
+    

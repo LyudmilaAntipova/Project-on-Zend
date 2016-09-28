@@ -1,0 +1,32 @@
+* {
+    background-color:bisque;
+}
+
+body {
+    background-color:coral
+}
+
+form {
+    color: chartreuse
+}
+
+.block1 {
+    width: 200px;
+    margin: 0 auto;
+    color:bisque;
+}
+
+.block2 {
+    width:300px;
+    margin-left:70%
+}
+
+.block3  {
+    width:100px; 
+    margin-left:80%
+}
+
+.block4 {
+    width:200px; 
+    margin-left: 80%;
+}
